@@ -10,4 +10,6 @@ Here's some important skills I learned from this project:
 
 ## How to create a user interface for a program using java swing
 
+## How to test code using JUnit tests
+
 ## How to collaborate with a partner to finish a project
